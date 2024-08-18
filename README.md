@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeepjyotiMandal
-- 👀 I’m interested in ... coding , videgames, al , machine learnig phtpgraphy
-- 🌱 I’m currently learning ... at college
-- 💞️ I’m looking to collaborate on ... bill grates
-- 📫 How to reach me ... mail me
+- 👀 I’m interested in ... coding , videgames, al , software  and cloud technology photography 
+- 🌱 I’m currently learning ... Mernstack
+- 💞️ I’m looking to collaborate on ... All big company developer 
+- 📫 How to reach me ... mail me 210301120072@cutm.ac.in
 
 <!---
 DeepjyotiMandal/DeepjyotiMandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
